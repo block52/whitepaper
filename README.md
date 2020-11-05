@@ -10,13 +10,16 @@ Private is the inverse, where fees and currency are not the uses case but the pr
 
 Third generation chains will facilitate the layer between them. 
 
-## Domain specific chains
+## Domain specific block chains
 Some programming langauges are arguable better for specific domains.  Functional langauges such as Haskell and F# are used in the scientific commnuity.
 
 Domain Speific chains will be the next interation of blockchains.  So what are domain specific chains?
 
 
 ## Layers
+
+Block 52 has taken insperation off the lbry project.  lbry facilates the distribution of video conent through its network and allows users to share and pay for content with its native LBC token.   
+
 * Core / Node
 * Client Application
 * Virtual Machine
