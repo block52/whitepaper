@@ -14,3 +14,10 @@ Third generation chains will facilitate the layer between them.
 Some programming langauges are arguable better for specific domains.  Functional langauges such as Haskell and F# are used in the scientific commnuity.
 
 Domain Speific chains will be the next interation of blockchains.  So what are domain specific chains?
+
+
+## Layers
+* Core / Node
+* Client Application
+* Virtual Machine
+* Langauge Compiler
