@@ -19,6 +19,16 @@ Some programming langauges are arguable better for specific domains.  Functional
 Block 52 has taken insperation off the lbry project.  lbry facilates the distribution of video conent through its network and allows users to share and pay for content with its native LBC token.   
 
 * Core / Node
-* Client Application
 * Virtual Machine
+* Transpiler
+* Contracts as config
 * Langauge Compiler
+
+### Nodes
+Nodes will facilitate the network communcation between nodes, be responsible for block creation via a Proof of Stake consensus alogorithm and provoide a websocket REST / gRPC interface for the desktop client to communicate.
+
+### Contracts as config
+
+Block 52 will allow card based games via a `.yaml` like file allowing users to quickly develop games with little coding knowledge.  Third party WYSIWYG style editors will emrage.  These contracts are signed, and transpiled to the VM.
+
+
