@@ -29,6 +29,12 @@ Nodes will facilitate the network communcation between nodes, be responsible for
 
 ### Contracts as config
 
-Block 52 will allow card based games via a `.yaml` like file allowing users to quickly develop games with little coding knowledge.  Third party WYSIWYG style editors will emrage.  These contracts are signed, and transpiled to the VM.
+Block 52 will allow card based games via a `.yaml` like file allowing users to quickly develop games with little coding knowledge.  Third party WYSIWYG style editors will emerge.  These contracts are signed, and transpiled to the VM.
 
-
+eg:
+```ymal
+game
+  - texas holdem
+  - limit
+    - non 
+```
