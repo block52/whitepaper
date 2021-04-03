@@ -1,7 +1,7 @@
 # Block52 Whitepaper
 
 ## Abstract
-Generation one block chains
+Block 52 is a domain specific blockchain with its own virtual machine tailored to faclicate and run card based games.  
 
 ## Private vs Public
 The debate around private and public chains has been debated a lot.  Both use cases in my opinion are valid.  They're both tools for the job.  That said, when a currency is being created, the more "public" they are the better chance of success.
