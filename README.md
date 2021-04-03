@@ -11,9 +11,7 @@ Private is the inverse, where fees and currency are not the uses case but the pr
 Third generation chains will facilitate the layer between them. 
 
 ## Domain specific block chains
-Some programming langauges are arguable better for specific domains.  Functional langauges such as Haskell and F# are used in the scientific commnuity.
-
-Domain Speific chains will be the next interation of blockchains.  So what are domain specific chains?
+Some programming langauges are arguable better for specific domains.  Functional langauges such as Haskell and F# are used in the scientific commnuity.  So what are domain specific chains?
 
 
 ## Layers
