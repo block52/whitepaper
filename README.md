@@ -3,12 +3,9 @@
 ![logo](https://github.com/block52/whitepaper/blob/main/mstile-144x144.png)
 
 ## Abstract
-Block 52 is an efficient blockchain based protocol to facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a crypto currency.
+Block 52 is an efficient blockchain based protocol to facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a native crypto currency.
 
-There have been a few attempts a generalized game, such as poker, but all suffer similar fates of 
-
-Slow transaction times when using protocols such as Bitcoin
-
+There have been a few attempts a generalized game, such as poker, but all suffer similar fates of slow transaction times when using protocols such as Bitcoin and Ethereum.  Just like the lbry.io project uses its own chain...
 
 ## Domain specific block chains
 High transaction fees on Ethereum and Bitcoin use generalised programming languages like solidity or non turing complete and limited languages such as scrypt
