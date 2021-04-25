@@ -7,10 +7,7 @@ Block 52 is an efficient blockchain based protocol to facilitate trustless playe
 
 ## Domain specific block chains
 
-There have been attempts at developing decentralized card games such as poker, but all suffer similar fates. Slow transaction times when using protocols such as Bitcoin and Ethereum.  Just like the lbry.io project uses its own chain...
-
-High transaction fees on Ethereum and Bitcoin use generalised programming languages like solidity or non turing complete and limited languages such as scrypt
-Many papers since the 1980’s have discussed the feasibility of “mental poker”, but with a domain specific blockchain and a portable domain specific language, this is possible.
+There have been attempts at developing decentralized card games such as poker, but all suffer similar fates.  Slow transaction times and high fees when using protocols such as Bitcoin and Ethereum make decentralizsed games unfeasable.  [cite fees]
 
 ## Domain specific programming language
 With a domain specific blockchain comes a DSP language. Some programming langauges are arguable better for specific domains or industries.  Functional langauges such as Haskell and F# are used in the scientific commnuity.  So what are domain specific langauges?
