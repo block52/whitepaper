@@ -3,14 +3,9 @@
 ![logo](https://github.com/block52/whitepaper/blob/main/mstile-144x144.png)
 
 ## Abstract
-Block 52 is an efficient blockchain based protocol to facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a native crypto currency.  Despite many protocols have been proposed, online poker rooms are still based on client-server architectures.
+Mental poker is the study of protocols that allow players to play fair poker games over the net without a trusted third party. Considered as a kind of multiparty computation. Block 52 is an implementation of the ideas of mental poker, via an efficient blockchain based protocol.  Block 52 facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a native crypto currency.  Despite many protocols have been proposed, online poker rooms are still based on client-server architectures.
 
-However, it is not uncommon for players to question the integrity of online games.
-
-Mental poker is the study of protocols that allow players to play fair poker games over the net without a trusted third party. Considered as a kind of multiparty computation.
-
-In the study of mental poker, there are very few assumptions on the behavior of adversaries.
-Adversaries are typically allowed to have coalition of any size and can make active attacks.
+However, it is not uncommon for players to question the integrity of online games.  In the study of mental poker, there are very few assumptions on the behavior of adversaries.  Adversaries are typically allowed to have coalition of any size and can make active attacks.
 
 ## Domain specific block chains
 
