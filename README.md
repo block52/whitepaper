@@ -5,9 +5,10 @@
 ## Abstract
 Block 52 is an efficient blockchain based protocol to facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a native crypto currency.
 
-There have been a few attempts a generalized game, such as poker, but all suffer similar fates of slow transaction times when using protocols such as Bitcoin and Ethereum.  Just like the lbry.io project uses its own chain...
-
 ## Domain specific block chains
+
+There have been attempts at developing decentralized card games such as poker, but all suffer similar fates. Slow transaction times when using protocols such as Bitcoin and Ethereum.  Just like the lbry.io project uses its own chain...
+
 High transaction fees on Ethereum and Bitcoin use generalised programming languages like solidity or non turing complete and limited languages such as scrypt
 Many papers since the 1980’s have discussed the feasibility of “mental poker”, but with a domain specific blockchain and a portable domain specific language, this is possible.
 
