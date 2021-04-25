@@ -1,6 +1,6 @@
 # Block52 Whitepaper
 
-![logo](logo.png)
+![logo](https://github.com/block52/whitepaper/blob/main/mstile-144x144.png)
 
 ## Abstract
 Block 52 is an efficient blockchain based protocol to facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a crypto currency.
