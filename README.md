@@ -5,6 +5,11 @@
 ## Abstract
 Block 52 is an efficient blockchain based protocol to facilitate trustless player to player card games over the internet, with zero knowledge, no central authority and the ability to allow games to wager in a native crypto currency.
 
+Mental poker is the study of protocols that allow players to play fair poker games over the net without a trusted third party. Considered as a kind of multiparty computation.
+
+In the study of mental poker, there are very few assumptions on the behavior of adversaries.
+Adversaries are typically allowed to have coalition of any size and can make active attacks.
+
 ## Domain specific block chains
 
 There have been attempts at developing decentralized card games such as poker, but all suffer similar fates.  Slow transaction times and high fees when using protocols such as Bitcoin and Ethereum make decentralizsed games unfeasable.  [cite fees]
@@ -15,6 +20,25 @@ With a domain specific blockchain comes a DSP language. Some programming langaug
 Joker is a simple, portable language for systematically specifying multiplayer turn- based card games using a programmer-specified card deck, unlike Ethereum’s Solidity and Vyper general language.
 
 The intention of our language is to allow programmers to succinctly describe the rules of a card game and to create a runtime card game engine. The structure and the rule-driven nature of card games create a ripe domain to construct a language for. Blackjack and Poker are examples of turn-based games in this domain. This language will allow for the prototyping of card games. Our language creates a framework for programming any turn-based card game.
+
+## Worked Example
+### Cut for high card
+The card game "cut for high card" is simple enough concept to grasp, but has all the elements nessary to build a simple contract that demonstrates the capabilities or block 52.  Each player is asked to wager that their randomly selected card is of higher value than the opponents.  The cards are ranked from Ace to 2
+
+The work flow is described as such:
+* The wager amount is decided and agreed
+* A deck of 52 cards is shuffled and agreed
+* Player 0 chooses a card at a random
+* Player 1 chooses a card at a random
+
+The winer is decided via the function:
+
+```
+f(x) = card[0] > card[1]
+```
+
+
+### The game as joker
 
 ## Tech stack
 ### Layers
