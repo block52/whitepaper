@@ -7,6 +7,8 @@ Mental poker is the study of protocols that allow players to play fair poker gam
 
 However, it is not uncommon for players to question the integrity of online games.  In the study of mental poker, there are very few assumptions on the behavior of adversaries.  Adversaries are typically allowed to have coalition of any size and can make active attacks.
 
+## Protocol not software
+
 ## Domain specific block chains
 
 There have been attempts at developing decentralized card games such as poker, but all suffer similar fates.  Slow transaction times and high fees when using protocols such as Bitcoin and Ethereum make decentralizsed games unfeasable.  [cite fees]
