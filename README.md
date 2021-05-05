@@ -16,6 +16,7 @@ However, it is not uncommon for players to question the integrity of online game
 ## Protocol not software
 
 ## Domain specific block chains
+### Block52 allows decentralized P2P poker platforms to be developed on the Block52 Blockchain
 
 There have been attempts at developing decentralized card games such as poker, but all suffer similar fates.  Slow transaction times and high fees when using protocols such as Bitcoin and Ethereum make decentralizsed games unfeasable.  [cite fees]
 
