@@ -7,6 +7,12 @@ Mental poker is the study of protocols that allow players to play fair poker gam
 
 However, it is not uncommon for players to question the integrity of online games.  In the study of mental poker, there are very few assumptions on the behavior of adversaries.  Adversaries are typically allowed to have coalition of any size and can make active attacks.
 
+## Integrity
+
+## Privacy
+
+
+
 ## Protocol not software
 
 ## Domain specific block chains
